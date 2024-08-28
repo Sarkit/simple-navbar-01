@@ -1,0 +1,16 @@
+@media(max-width:800px){
+
+	.hideonmobile{
+		display: none;
+	}
+	nav li.hamburger-icon{
+		display: block;
+	}
+}
+
+@media(max-width:400px){
+
+	.sidebar{
+		width: 100%;
+	}
+}
